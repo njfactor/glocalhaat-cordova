@@ -1,1 +1,0 @@
-# glocalhaat-cordova
